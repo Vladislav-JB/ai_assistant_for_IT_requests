@@ -25,7 +25,9 @@
 
 ![Скриншот 2](https://github.com/Vladislav-JB/ai_assistant_for_IT_requests/blob/main/Screenshot_2.jpg?raw=true).
 
+
 Включен режим логирования всех запросов, для удобства анализа можно экспортирвать в Excel.
+
 ![Скриншот 3](https://github.com/Vladislav-JB/ai_assistant_for_IT_requests/blob/main/Screenshot_3.jpg?raw=true).
 
 ### 3. Дополнительно возможна интеграция с CRM, мессенджерами, сайтами, либо ITSM-системы

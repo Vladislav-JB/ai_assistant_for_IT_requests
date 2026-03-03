@@ -2,7 +2,7 @@
 
 Ссылка на проект - @ai_assistant_for_it_bot
 
-![Скриншот 1](https://github.com/Vladislav-JB/ai_assistant_for_IT_requests/blob/main/Screenshot_1.jpg?raw=true). ![Скриншот 2](https://github.com/Vladislav-JB/ai_assistant_for_IT_requests/blob/main/Screenshot_2.jpg?raw=true). ![Скриншот 3](https://github.com/Vladislav-JB/ai_assistant_for_IT_requests/blob/main/Screenshot_3.jpg?raw=true). ![Скриншот 4](https://github.com/Vladislav-JB/ai_assistant_for_IT_requests/blob/main/Screenshot_4.jpg?raw=true).
+![Скриншот 1](https://github.com/Vladislav-JB/ai_assistant_for_IT_requests/blob/main/Screenshot_1.jpg?raw=true). ![Скриншот 4](https://github.com/Vladislav-JB/ai_assistant_for_IT_requests/blob/main/Screenshot_4.jpg?raw=true). ![Скриншот 3](https://github.com/Vladislav-JB/ai_assistant_for_IT_requests/blob/main/Screenshot_3.jpg?raw=true). ![Скриншот 2](https://github.com/Vladislav-JB/ai_assistant_for_IT_requests/blob/main/Screenshot_2.jpg?raw=true).
 
 ## Описание проекта
 Разработан интеллектуальный ассистент, способный автоматизировать обработку типовых технических IT запросов от сотрудников и снизить нагрузку на первую линию поддержки IT-отдела. Этот ИИ-ассистент создан с использованием передовых технологий в области искусственного интеллекта, таких как **ChatGPT** для создания системного промпта и базы знаний, а также платформы **SMAIPL** для реализации самого ИИ-ассистента.
